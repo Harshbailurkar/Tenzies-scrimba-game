@@ -1,10 +1,15 @@
 Play Here : https://tenzies-dice-game-harshbailurkar.netlify.app/
 
 <br>
+<table>
+  <tr>
+    <td>![image](https://github.com/Harshbailurkar/Tenzies-scrimba-game/assets/113308692/29708937-7618-4751-8f6d-baedbcec666d)</td>
+    <td>![image](https://github.com/Harshbailurkar/Tenzies-scrimba-game/assets/113308692/1930941c-c780-46f3-abe5-26595d714e5f)</td>
+  </tr>
+</table>
 
-![image](https://github.com/Harshbailurkar/Tenzies-scrimba-game/assets/113308692/29708937-7618-4751-8f6d-baedbcec666d)
 <br>
-![image](https://github.com/Harshbailurkar/Tenzies-scrimba-game/assets/113308692/1930941c-c780-46f3-abe5-26595d714e5f)
+
 
 
 
